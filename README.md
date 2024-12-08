@@ -29,11 +29,11 @@ apt-get install git -y
 ```
 
 ```
-git clone https://github.com/AnonymousRaihan/PaPi.git
+git clone https://github.com/AnonymousRaihan/Install_All_Package.git
 ```
 
 ```
-cd PaPi
+cd Install_All_Package
 ```
 
 ```
@@ -44,6 +44,8 @@ chmod +x *
 ./Anonymous_install_all_package.sh
 ```
 
+
+#Telegram
 ```
 https://t.me/Anonymous_Raihan
 ```
