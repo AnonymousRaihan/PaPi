@@ -1,4 +1,4 @@
-# PaPi
+# Termux All Package Install 1 Click 
 
 ```
 apt update -y && pkg update -y
@@ -45,7 +45,7 @@ chmod +x *
 ```
 
 
-#Telegram
+# Telegram
 ```
 https://t.me/Anonymous_Raihan
 ```
